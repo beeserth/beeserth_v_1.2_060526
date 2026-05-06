@@ -1,0 +1,1 @@
+window.BEESERTH_ORDER_API = 'https://script.google.com/macros/s/AKfycbz3PB8qM0rUz6ExQxpkTo9aiJ0aLKZvzxsNZ3Xgs61ZAEq3JkYJnerY4Awa6tCqTpFTXg/exec';

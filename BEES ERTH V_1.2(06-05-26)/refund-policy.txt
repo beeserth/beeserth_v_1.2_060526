@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Refund Policy | BEES ERTH</title>
+    <meta name="description" content="Refund and cancellation policy for BEES ERTH orders.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="style.css?v=20260506-policy">
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Lora:ital,wght@0,400;1,400&family=Montserrat:wght@300;600;800&display=swap" rel="stylesheet">
+</head>
+<body class="policy-page">
+    <div class="top-banner">
+        <span>Bio Enzyme Essence Eco Regenerative Terrestrial Health</span>
+    </div>
+
+    <header class="main-header">
+        <div class="header-content">
+            <a class="logo-home" href="index.html" aria-label="BEES ERTH homepage">
+                <img src="assets/logos/logo.png" alt="BEES ERTH" class="brand-logo" decoding="async" fetchpriority="high">
+            </a>
+            <nav class="nav-center">
+                <ul>
+                    <li><a href="index.html#vision">Vision</a></li>
+                    <li><a href="index.html#product-section">Products</a></li>
+                    <li><a href="index.html#advantages">Why Us?</a></li>
+                    <li><a href="index.html#goal">Goal</a></li>
+                </ul>
+            </nav>
+            <a class="policy-home-link" href="index.html">Home</a>
+        </div>
+    </header>
+
+    <main class="policy-main">
+        <article class="policy-document">
+            <p class="hero-kicker">BEES ERTH</p>
+            <h1>Refund Policy</h1>
+            <p class="policy-updated">Effective date: May 6, 2026</p>
+
+            <section>
+                <h2>Cancellations</h2>
+                <p>You may request order cancellation before the order is dispatched. Once dispatched, cancellation may not be possible because delivery handling has already started.</p>
+            </section>
+
+            <section>
+                <h2>Refund Eligibility</h2>
+                <p>Refunds or replacements may be considered if the product is damaged in transit, incorrect, missing, or unusable when received. Please contact us within 48 hours of delivery with your order details and clear photos or videos of the issue.</p>
+            </section>
+
+            <section>
+                <h2>Non-Refundable Cases</h2>
+                <p>Refunds may not be available for used products, opened products without a quality issue, incorrect address details provided by the customer, refusal to accept delivery, or change-of-mind requests after dispatch.</p>
+            </section>
+
+            <section>
+                <h2>Refund Timeline</h2>
+                <p>After approval, refunds are processed to the original or mutually agreed payment method. Processing time may vary depending on the payment provider or bank.</p>
+            </section>
+
+            <section>
+                <h2>Contact</h2>
+                <p>Email: <a href="mailto:beeserth@gmail.com">beeserth@gmail.com</a></p>
+                <p>Phone: <a href="tel:+918375003180">+91 8375003180</a></p>
+                <p>Business address: Jaganadharaju colony, Cheepurupalli, Vizianagaram, Cheepurupalli, Andhra Pradesh 535128</p>
+            </section>
+        </article>
+    </main>
+</body>
+</html>
